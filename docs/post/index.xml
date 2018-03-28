@@ -41,5 +41,18 @@
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jirka941.github.io/hugo-start/post/tym/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jirka941.github.io/hugo-start/post/tym/</guid>
+      <description>&amp;mdash;title: &amp;ldquo;Tým&amp;rdquo;date: 2018-03-28T16:14:40+02:00draft: false&amp;mdash;
+Členové týmu Balajková Jana
+Jakabová Alexandra
+Pokorný Jiří
+Naše motivace Máme rádi zámky, Moravu a historii!</description>
+    </item>
+    
   </channel>
 </rss>
