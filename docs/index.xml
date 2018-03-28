@@ -42,13 +42,15 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>About</title>
+      <title>O projektu</title>
       <link>https://jirka941.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jirka941.github.io/hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Členové týmu Balajková Jana
+Jakabová Alexandra
+Pokorný Jiří
+Naše motivace Máme rádi zámky, Moravu a historii!</description>
     </item>
     
   </channel>
