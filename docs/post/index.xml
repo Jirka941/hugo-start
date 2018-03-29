@@ -6,10 +6,22 @@
     <description>Recent content in Archive on Zámky jižní Moravy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 28 Mar 2018 13:46:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 28 Mar 2018 16:20:08 +0200</lastBuildDate>
     
 	<atom:link href="https://jirka941.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Členové týmu</title>
+      <link>https://jirka941.github.io/hugo-start/post/tym/</link>
+      <pubDate>Wed, 28 Mar 2018 16:20:08 +0200</pubDate>
+      
+      <guid>https://jirka941.github.io/hugo-start/post/tym/</guid>
+      <description>Členové týmu Balajková Jana
+Jakabová Alexandra
+Pokorný Jiří
+Naše motivace Máme rádi zámky, Moravu a historii!</description>
+    </item>
     
     <item>
       <title>Zámek Milotice</title>
@@ -39,19 +51,6 @@
       <guid>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</guid>
       <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
 To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jirka941.github.io/hugo-start/post/tym/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/tym/</guid>
-      <description>&amp;mdash;title: &amp;ldquo;Tým&amp;rdquo;date: 2018-03-28T16:14:40+02:00draft: false&amp;mdash;
-Členové týmu Balajková Jana
-Jakabová Alexandra
-Pokorný Jiří
-Naše motivace Máme rádi zámky, Moravu a historii!</description>
     </item>
     
   </channel>
