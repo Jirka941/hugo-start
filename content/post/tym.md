@@ -13,4 +13,4 @@ Pokorný Jiří
   ---  
 
 ### Naše motivace    
-Máme rádi zámky, Moravu a historii! 
+ 
