@@ -2,6 +2,7 @@ title: Zámky jižní Moravy
 baseURL: https://jirka941.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117923046-1
 
 menu:
   main:
