@@ -1,3 +1,40 @@
+﻿.wrapper {
+  margin: 30px auto;
+  max-width: 800px;
+  padding: 20px;
+  font-family: "Georgia";
+  font-style: italic; 
+}
+
+header {
+  padding: 30px 0 0;
+  border-bottom: solid;
+}
+
+footer {
+  border-top: solid;
+  clear: both;
+}
+
+.page {
+  float: right;
+  width: 70%;
+  border-left: solid;
+  padding-left: 1.5em;
+  padding-bottom: 2em;
+  min-height: 400px;
+}
+
+aside {
+  float: left;
+  width: 24%;
+  margin-top: 3em;
+  background-color: rgba(35,0,0,0.3);
+  background-position: top left;
+}
+
+nav ul {
+  list-style-type: none;
   padding: 1;
 }
 
