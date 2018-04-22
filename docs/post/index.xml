@@ -6,10 +6,21 @@
     <description>Recent content in Archive on Zámky jižní Moravy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 28 Mar 2018 16:20:08 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 17:10:39 +0200</lastBuildDate>
     
 	<atom:link href="https://jirka941.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://jirka941.github.io/hugo-start/post/dataset/</link>
+      <pubDate>Sat, 21 Apr 2018 17:10:39 +0200</pubDate>
+      
+      <guid>https://jirka941.github.io/hugo-start/post/dataset/</guid>
+      <description>Data k projektu
+Návštěvnost památek v krajích ČR – Jihomoravský kraj odkaz: http://www.nipos-mk.cz/wp-content/uploads/2013/05/PAMATKY_navstevnost_2016.pdf
+Databázi připravilo Národní informační a poradenské středisko pro kulturu. Jedná se o data shromážděná mezi lety 2014 - 2016. Databáze je zaměřena na zpoplatněné kulturní památky (hrady, zámky, kláštery, zříceniny, mlýny apod.) v celé České republice. Pro náš web bude primární Jihomoravský kraj, kde může uživatel v přehledné tabulce najít návštěvnost jednotlivých hradů a zámků. Podle toho si například i vybrat, jestli je dobré památku navštívit nebo ne.</description>
+    </item>
     
     <item>
       <title>Členové týmu</title>
