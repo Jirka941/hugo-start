@@ -1,150 +1,90 @@
-<?xml version="1.0" encoding="UTF-8" standalone="true"?>
-
--<urlset xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</loc>
-
-<lastmod>2018-04-29T11:24:07+02:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/tym/</loc>
-
-<lastmod>2018-03-28T16:20:08+02:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/zamky/</loc>
-
-<lastmod>2018-03-28T13:46:08+02:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/another-post/</loc>
-
-<lastmod>2018-03-15T00:00:00+00:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</loc>
-
-<lastmod>2018-03-13T00:00:00+00:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/post/</loc>
-
-<lastmod>2018-04-29T11:24:07+02:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/beatles/</loc>
-
-<lastmod>2018-03-15T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/categories/</loc>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/data/</loc>
-
-<lastmod>2018-03-15T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/hello-world/</loc>
-
-<lastmod>2018-03-13T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/</loc>
-
-<lastmod>2018-04-29T11:24:07+02:00</lastmod>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/hugo/</loc>
-
-<lastmod>2018-03-13T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/about/</loc>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/start/</loc>
-
-<lastmod>2018-03-13T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
-
--<url>
-
-<loc>https://jirka941.github.io/hugo-start/tags/</loc>
-
-<lastmod>2018-03-15T00:00:00+00:00</lastmod>
-
-<priority>0</priority>
-
-</url>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</loc>
+    <lastmod>2018-04-29T11:24:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/dataset/</loc>
+    <lastmod>2018-04-21T17:10:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/tym/</loc>
+    <lastmod>2018-03-28T16:20:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/zamky/</loc>
+    <lastmod>2018-03-28T13:46:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/another-post/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/post/</loc>
+    <lastmod>2018-04-29T11:24:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/beatles/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/data/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/hello-world/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/</loc>
+    <lastmod>2018-04-29T11:24:07+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/hugo/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/start/</loc>
+    <lastmod>2018-03-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jirka941.github.io/hugo-start/tags/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
