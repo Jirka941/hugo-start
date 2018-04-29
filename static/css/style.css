@@ -1,7 +1,9 @@
-﻿.wrapper {
+.wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
+  font-family: "Georgia";
+  font-style: italic; 
 }
 
 header {
@@ -25,13 +27,15 @@ footer {
 
 aside {
   float: left;
-  width: 25%;
-  margin-top: 1em;
+  width: 24%;
+  margin-top: 3em;
+  background-color: rgba(35,0,0,0.3);
+  background-position: top left;
 }
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 1;
 }
 
 nav li {
@@ -41,3 +45,36 @@ nav li {
 nav .active {
   font-weight: bold;
 }
+
+body {
+  font-family:'Open Sans', Arial, sans-serif;
+  font-size:14px;
+  font-weight:300;
+  line-height:1.6em;
+  color:#fff;
+  background-color:#ABC;
+  overflow-x:hidden;
+}
+
+hi,h2,h3,h4,h5,h6 {
+  color:#333;
+  line-height:1.1em;
+}
+
+p {
+  color:#333;
+  font-size:13px;
+}
+a {
+    text-decoration:none;
+    transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -webkit-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    outline: none;
+  color:#333;
+}
+a:hover {
+  text-decoration: none;
+  color:#eee; 
+  }

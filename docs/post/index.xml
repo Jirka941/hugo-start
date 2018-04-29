@@ -1,66 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Archive on Zámky jižní Moravy</title>
-    <link>https://jirka941.github.io/hugo-start/post/</link>
-    <description>Recent content in Archive on Zámky jižní Moravy</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>cs-cz</language>
-    <lastBuildDate>Sun, 29 Apr 2018 11:24:07 +0200</lastBuildDate>
-    
-	<atom:link href="https://jirka941.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Benešovy Dekrety</title>
-      <link>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</link>
-      <pubDate>Sun, 29 Apr 2018 11:24:07 +0200</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</guid>
-      <description>BENEŠOVY DEKTERY A JEJICH VLIV NA ZÁMKY A HRADY NA JIŽNÍ MORAVĚ Benešovy dekrety začala v Londýně exilová vláda vydávat již 15.dubna roku 1940. Tyto dekrety měly prozatímně nahrazovat zákony v době, kdy nebylo možní vydávat zákony skrze Národní shromáždění. Prezident vydával dekrety s právní silou ústavních zákonů. Bylo publikováno 98 dekretů prezidenta a 7 dekretů bylo publikováno dodatečně. Všechny dekrety byly po válce roku 1946 uzákoněny. Dekrety se týkaly hlavně znárodnění většiny průmyslových podniků, pojišťoven, bank, zavedení centrálního plánování, všeobecné pracovní povinnosti, dále mezi ně patří dekrety spojené především s konfiskací majetku etnických Němců a Maďarů, zrádců a kolaborantů, ztrátou československého občanství pro Němce a Maďary, zrušené německé univerzity a německých vysokých škol technických.</description>
-    </item>
-    
-    <item>
-      <title>Členové týmu</title>
-      <link>https://jirka941.github.io/hugo-start/post/tym/</link>
-      <pubDate>Wed, 28 Mar 2018 16:20:08 +0200</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/tym/</guid>
-      <description>Členové týmu Balajková Jana
-Jakabová Alexandra
-Pokorný Jiří
-Naše motivace Máme rádi zámky a historii!</description>
-    </item>
-    
-    <item>
-      <title>Zámek Milotice</title>
-      <link>https://jirka941.github.io/hugo-start/post/zamky/</link>
-      <pubDate>Wed, 28 Mar 2018 13:46:08 +0200</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/zamky/</guid>
-      <description>V našem skupinovém tématu zpracováváme zámky na jižní Moravě. Vybral jsem si street view pohled na jeden z nich.</description>
-    </item>
-    
-    <item>
-      <title>All albums of The Beatles</title>
-      <link>https://jirka941.github.io/hugo-start/post/another-post/</link>
-      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/another-post/</guid>
-      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
 
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Hugo!</title>
-      <link>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</link>
-      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</guid>
-      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
-To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
-    </item>
-    
-  </channel>
+-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+
+-<channel>
+
+<title>Archive on Zámky jižní Moravy</title>
+
+<link>https://jirka941.github.io/hugo-start/post/</link>
+
+<description>Recent content in Archive on Zámky jižní Moravy</description>
+
+<generator>Hugo -- gohugo.io</generator>
+
+<language>cs-cz</language>
+
+<lastBuildDate>Sun, 29 Apr 2018 11:24:07 +0200</lastBuildDate>
+
+<atom:link type="application/rss+xml" rel="self" href="https://jirka941.github.io/hugo-start/post/index.xml"/>
+
+
+-<item>
+
+<title>Benešovy Dekrety</title>
+
+<link>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</link>
+
+<pubDate>Sun, 29 Apr 2018 11:24:07 +0200</pubDate>
+
+<guid>https://jirka941.github.io/hugo-start/post/clanek/dekrety/</guid>
+
+<description>BENEŠOVY DEKTERY A JEJICH VLIV NA ZÁMKY A HRADY NA JIŽNÍ MORAVĚ Benešovy dekrety začala v Londýně exilová vláda vydávat již 15.dubna roku 1940. Tyto dekrety měly prozatímně nahrazovat zákony v době, kdy nebylo možní vydávat zákony skrze Národní shromáždění. Prezident vydával dekrety s právní silou ústavních zákonů. Bylo publikováno 98 dekretů prezidenta a 7 dekretů bylo publikováno dodatečně. Všechny dekrety byly po válce roku 1946 uzákoněny. Dekrety se týkaly hlavně znárodnění většiny průmyslových podniků, pojišťoven, bank, zavedení centrálního plánování, všeobecné pracovní povinnosti, dále mezi ně patří dekrety spojené především s konfiskací majetku etnických Němců a Maďarů, zrádců a kolaborantů, ztrátou československého občanství pro Němce a Maďary, zrušené německé univerzity a německých vysokých škol technických.</description>
+
+</item>
+
+
+-<item>
+
+<title>Členové týmu</title>
+
+<link>https://jirka941.github.io/hugo-start/post/tym/</link>
+
+<pubDate>Wed, 28 Mar 2018 16:20:08 +0200</pubDate>
+
+<guid>https://jirka941.github.io/hugo-start/post/tym/</guid>
+
+<description>Členové týmu Balajková Jana Jakabová Alexandra Pokorný Jiří Naše motivace Máme rádi zámky a historii!</description>
+
+</item>
+
+
+-<item>
+
+<title>Zámek Milotice</title>
+
+<link>https://jirka941.github.io/hugo-start/post/zamky/</link>
+
+<pubDate>Wed, 28 Mar 2018 13:46:08 +0200</pubDate>
+
+<guid>https://jirka941.github.io/hugo-start/post/zamky/</guid>
+
+<description>V našem skupinovém tématu zpracováváme zámky na jižní Moravě. Vybral jsem si street view pohled na jeden z nich.</description>
+
+</item>
+
+
+-<item>
+
+<title>All albums of The Beatles</title>
+
+<link>https://jirka941.github.io/hugo-start/post/another-post/</link>
+
+<pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+
+<guid>https://jirka941.github.io/hugo-start/post/another-post/</guid>
+
+<description><p>This is just another post. And it illustrates a mighty functionality.</p> <p></p></description>
+
+</item>
+
+
+-<item>
+
+<title>Welcome to Hugo!</title>
+
+<link>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</link>
+
+<pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+
+<guid>https://jirka941.github.io/hugo-start/post/welcome-to-hugo/</guid>
+
+<description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated. To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+
+</item>
+
+</channel>
+
 </rss>
