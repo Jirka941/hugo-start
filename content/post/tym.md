@@ -9,7 +9,7 @@ draft: false
 
 Balajková Jana  
 Jakabová Alexandra  
-Pokorný Jiří 
+Pokornýy Jiří 
   ---  
 
 ### Naše motivace    
