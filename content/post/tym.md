@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Členové týmu"
 date: 2018-03-28T16:20:08+02:00
 draft: false
@@ -7,9 +7,9 @@ draft: false
 
 ### Členové týmu
 
-Balajková Jana   
-Jakabová Alexandra   
-Pokorný Jiří  
+Balajková Jana  
+Jakabová Alexandra  
+Pokorný Jiří 
   ---  
 
 ### Naše motivace    

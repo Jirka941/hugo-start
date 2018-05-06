@@ -1,4 +1,4 @@
-title: Zámky jižní Moravy
+﻿title: Zámky jižní Moravy
 baseURL: https://jirka941.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
@@ -15,6 +15,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
+  description: Průvodce historií zámků na jižní Moravě.
   authors: Authors
 

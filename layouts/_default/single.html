@@ -1,4 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
   {{ .Content }}
+
+{{ partial "header" . }}
+  <h1>Single Template</h1>
+
+
 {{ end }}

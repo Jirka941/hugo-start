@@ -7,7 +7,10 @@
 }
 
 header {
-  padding: 30px 0 0;
+  background-image: url("http://obrazky.firotour.cz/photos/sitt_1067588/large.jpg");
+  background-repeat: no-repeat;
+  background-position: center 61%;
+  padding: 45px 0 0;
   border-bottom: solid;
 }
 
@@ -78,3 +81,11 @@ a:hover {
   text-decoration: none;
   color:#eee; 
   }
+
+.homepage {
+  background-color: LemonChiffon;
+  border-style: solid;
+  border-width: medium;
+  border-color: Sienna;
+
+}
