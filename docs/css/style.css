@@ -81,3 +81,11 @@ a:hover {
   text-decoration: none;
   color:#eee; 
   }
+
+.homepage {
+  background-color: LemonChiffon;
+  border-style: solid;
+  border-width: medium;
+  border-color: Sienna;
+
+}
