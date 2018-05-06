@@ -7,9 +7,9 @@ draft: false
 
 ### Členové týmu
 
-Balajková Jana  
-Jakabová Alexandra  
-Pokorný Jiří 
+Balajková Jana   
+Jakabová Alexandra   
+Pokorný Jiří  
   ---  
 
 ### Naše motivace    
