@@ -1,4 +1,4 @@
-.wrapper {
+﻿.wrapper {
   margin: 30px auto;
   max-width: 800px;
   padding: 20px;
@@ -50,7 +50,7 @@ nav .active {
 }
 
 body {
-  font-family:'Open Sans', Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   font-size:14px;
   font-weight:300;
   line-height:1.6em;
