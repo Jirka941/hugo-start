@@ -49,3 +49,4 @@ Roku 1858 Alois II. zemřel a téhož roku nabyl plnoletosti jeho syn Jan II., k
 
 Přesto, že Lichtenštejnové nikdy nekolaborovali s nacismem, roku 1945 jim byl zámek Lednice, stejně jako ostatní panství v českých zemích, zkonfiskován státem na základě tzv. Benešových dekretů.
 
+
