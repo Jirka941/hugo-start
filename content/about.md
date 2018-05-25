@@ -5,6 +5,7 @@ menu:
     weight: 30
 ---
 
+![Zámek_Lysice]( https://vylezven.cz/wp-content/uploads/2018/01/1013-800x445.jpg)
 
 ### Cílová skupina  
  Naší cílovou skupinou je široká veřejnost. Náš web bude přístupný pro děti, dospělé i důchodce, kteří mají zájem seznámit se Zámky jižní Moravy. 
